@@ -41,7 +41,6 @@ ai-shopping-assistant/
 ├── pyproject.toml
 ├── README.md
 ├── .gitignore
-├── requirements.txt
 └── images/
 ```
 
