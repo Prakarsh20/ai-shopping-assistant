@@ -74,7 +74,7 @@ ai-shopping-assistant/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-shopping-assistant.git
+git clone https://github.com/Prakarsh20/ai-shopping-assistant.git
 ```
 
 Move into the project directory:
