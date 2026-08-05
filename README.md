@@ -93,23 +93,6 @@ Run the application:
 ```bash
 streamlit run app.py
 ```
-
----
-
-## Screenshots
-
-### Home Page
-
-(Add screenshot here)
-
-### Product Search
-
-(Add screenshot here)
-
-### Checkout
-
-(Add screenshot here)
-
 ---
 
 ## Future Improvements
